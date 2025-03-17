@@ -12,6 +12,7 @@ The notebook is setup to use a `.env` file with the following variables. You mus
 
 - `CSV_FILE_PATH`: path to the manual transcription file
 - `ALTO_DIR_PATH`: path to the directory containing the ALTO files you wish to match to
+- `OUTPUT_DIR_PATH`: path to the directory containing where you want the updated alto files saved to
 
 ### Structure of the csv file
 
